@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+octo/
+trajectories/
+results/benchmark.csv
+results/ablation_*.csv
+*.ipynb_checkpoints
+.DS_Store
