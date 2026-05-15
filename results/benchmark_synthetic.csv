@@ -1,0 +1,11 @@
+task,method,success_rate,avg_reward,std_reward,avg_latency_ms,p95_latency_ms,avg_samples_per_step,escalation_rate,episodes
+drawer-open,baseline,48,38,12,95,115,1.0,0.0,20
+drawer-open,random_N5,53,42,11,445,510,5.0,0.0,20
+drawer-open,smooth_N5,57,45,10,450,515,5.0,0.0,20
+drawer-open,full_N5,61,49,9,455,520,5.0,0.0,20
+drawer-open,adaptive_full,65,52,8,520,780,6.2,0.35,20
+pick-place,baseline,32,25,14,98,118,1.0,0.0,20
+pick-place,random_N5,36,29,13,460,530,5.0,0.0,20
+pick-place,smooth_N5,40,32,12,465,535,5.0,0.0,20
+pick-place,full_N5,43,34,11,470,540,5.0,0.0,20
+pick-place,adaptive_full,48,38,10,540,810,6.5,0.4,20

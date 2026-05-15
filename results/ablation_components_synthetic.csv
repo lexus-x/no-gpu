@@ -1,0 +1,6 @@
+task,variant,n_samples,success_rate,avg_latency_ms
+drawer-open,full,5,61,455
+drawer-open,no_consistency,5,55,450
+drawer-open,no_progress,5,58,452
+drawer-open,consistency_only,5,54,448
+drawer-open,smoothness_only,5,57,450

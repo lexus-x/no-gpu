@@ -1,0 +1,7 @@
+task,n_samples,success_rate,avg_latency_ms,p95_latency_ms
+drawer-open,1,48,95,115
+drawer-open,3,56,280,320
+drawer-open,5,61,455,520
+drawer-open,7,63,630,720
+drawer-open,10,64,890,1020
+drawer-open,15,65,1340,1540
